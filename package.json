@@ -1,0 +1,15 @@
+{
+  "name": "lcsc-part-params",
+  "version": "1.0.0",
+  "private": false,
+  "description": "不申请 API 密钥，从立创商城的公开页面直接拿物料参数（型号/品牌/封装/参数表/规格书）",
+  "type": "module",
+  "bin": {
+    "lcsc-params": "./lcsc.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["lcsc", "立创商城", "easyeda", "bom", "元器件", "电子元件"],
+  "license": "MIT"
+}
